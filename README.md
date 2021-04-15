@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohittiwari20
+- 👋 Hi, I’m Rohit Tiwari.
 - 👀 I’m interested in Data Structures, Python ,C and many more.
 - 🌱 I’m currently learning Java and Web Development. 
 - 📫 How to reach me rohit.startiwari@gmai.com
